@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pururaj987
+- 👋 Hi, I’m Pururaj Singh Rajawat
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ... MERN Stack
 - 💞️ I’m looking to collaborate on ...
